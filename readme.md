@@ -4,6 +4,13 @@
 
 Welcome to the URL Shortener Service! This service is designed to shorten URLs and provide basic statistics on their usage. The system is divided into two microservices: the URL Shortener and the Token Service.
 
+### Tech Skills
+- **Languages**: TypeScript, JavaScript
+- **Databases**: MongoDB
+- **Cache**: Redis
+- **Frameworks/Libraries**: Mongoose, NestJS
+- **Tools**: Postman, VScode
+
 ### URL Shortener Microservice (Port: 3000)
 
 This microservice handles the core functionality of shortening URLs and retrieving statistics.
